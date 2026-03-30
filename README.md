@@ -19,7 +19,8 @@ I enjoy leveraging data science to drive business values.
 - Machine Learning & Predictive Modeling  
 - LLM Applications & AI Agents  
 - Data Pipelines & Analytics Platforms  
-- Experimentation & Causal Inference  
+- Experimentation & Causal Inference
+
 
 ---
 
