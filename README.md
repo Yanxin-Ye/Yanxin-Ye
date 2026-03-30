@@ -2,7 +2,7 @@
 
 Hi, I’m Nicole.
 
-I am passionate about building data-driven products and AI-powered tools. I enjoy leveraging data science to drive business values.
+I build data-driven products and AI-powered tools, using data science to drive meaningful business impact.
 
 ---
 
