@@ -1,7 +1,8 @@
-# 👋 Welcome to My Playground!
+#  👋Welcome to My Playground👋
 
-Hi, I’m Nicole — a Data Scientist passionate about building data-driven products and AI-powered tools.  
-I enjoy leveraging data science to drive business values.
+Hi, I’m Nicole.
+
+I am passionate about building data-driven products and AI-powered tools. I enjoy leveraging data science to drive business values.
 
 ---
 
