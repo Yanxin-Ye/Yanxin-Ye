@@ -51,7 +51,7 @@ I build data-driven products and AI-powered tools, using data science to drive m
 
 ## ⚡ Fun Facts
 
-- 🧗‍♀️ Rock climbing gym regular  
+- 🧗‍♀️ Rock climbing gym Sunday - Friday  
 - ✍️ I write romantic novels (non-profit!)  
 - 🐱 Cat mom to Luna, Pepper, and Ryan  
 
